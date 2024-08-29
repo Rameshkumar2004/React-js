@@ -1,0 +1,28 @@
+.container{
+    height: 100%;
+    width: 100%;
+}
+.Header{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+   
+
+}
+.logo{
+    color: red;
+    font-size: 2rem;
+    margin-left: 20px;
+    align-items: center;
+    
+
+}
+.sign{
+    height: 30px;
+    width: 40px;
+    font-size: 2rem;
+    margin-left: 1110px;
+    align-items: center;
+    background-color: red; 
+    color: blue;
+}

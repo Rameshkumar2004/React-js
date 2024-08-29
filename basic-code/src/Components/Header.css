@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ 
+ .navbar {
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    border-bottom: 2px solid #E9E9E9;
+    color: black;
+ 
+ }
+ 
+ 
+ 
+ .img-logo {
+    width: 110px;
+    height: 40px;
+    margin-left: 100px;
+    background-image: url(../assets/Group2.png);
+    background-size: cover;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+ }
+ 
+ .nav-icon {
+    margin-left: 70%;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 1px solid red;
+    background-image: url(../assets/login1.png);
+    background-size: cover;
+    align-items: center;
+    display: flex;
+ 
+ }
+ 
+ .nav-title {
+    font-size: 13px;
+    font-weight: 600;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+   
+ }
+ 
+ .nav-title i {
+    align-items: center;
+    margin-left: 5px;
+    color: #828282;
+ }
+ 
+ .nav-section2 {
+    margin-top: 20px;
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    /* justify-content: space-evenly; */
+    display: flex;
+    /* flex-wrap: wrap; */
+    color: black;
+    box-shadow:1px 3px 3px rgba(229, 221, 221, 0.831);
+ }
+ 
+ .select {
+    margin-left: 300px;
+    margin-top: 20px;
+ }
+ 
+ .select2 {
+    margin-left: 300px;
+    margin-top: 20px;
+ }
+ 
+ .Search {
+    margin-left: 200px;
+    margin-top: 20px;
+    
+ }
+ .Search i{
+    margin-left: -20px;
+    color: #797979;
+ }
+ 
+ #text {
+    margin-left: 100px;
+    /* margin-left: 100px; */
+    margin-top: 20px;
+ }
+ 
+ /* header{
+    border: 4px solid green;
+ } */
